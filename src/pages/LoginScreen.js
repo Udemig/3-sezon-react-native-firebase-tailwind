@@ -81,7 +81,7 @@ export default function LoginScreen() {
           <TextInput
             className="p-4 bg-gray-100 text-gray-700 rounded-2xl"
             value={form.username}
-            onchangeText={text => onchangeText('username', text)}
+            onChangeText={text => onchangeText('username', text)}
           />
 
           <Text className="text-gray-700 ml-4">Password</Text>
@@ -89,7 +89,7 @@ export default function LoginScreen() {
           <TextInput
             className="p-4 bg-gray-100 text-gray-700 rounded-2xl"
             value={form.password}
-            onchangeText={text => onchangeText('password', text)}
+            onChangeText={text => onchangeText('password', text)}
             secureTextEntry
           />
 

@@ -1,0 +1,341 @@
+{
+  "users": [
+    {
+      "id": 2593,
+      "uid": "af73b71c-5d6e-4178-9d34-9b6c102ac440",
+      "password": "OidrZWl1w6",
+      "first_name": "Russel",
+      "last_name": "Mraz",
+      "username": "russel.mraz",
+      "email": "russel.mraz@email.com",
+      "avatar": "https://robohash.org/blanditiisautreiciendis.png?size=300x300\u0026set=set1",
+      "gender": "Agender",
+      "phone_number": "+965 (280) 021-2678 x927",
+      "social_insurance_number": "126120138",
+      "date_of_birth": "1979-11-23",
+      "employment": {
+        "title": "Product Marketing Strategist",
+        "key_skill": "Work under pressure"
+      },
+      "address": {
+        "city": "East Donn",
+        "street_name": "Doug Rapid",
+        "street_address": "20413 Jerold Isle",
+        "zip_code": "45959-6898",
+        "state": "Kansas",
+        "country": "United States",
+        "coordinates": {"lat": 29.77799046349959, "lng": 47.75721928959911}
+      },
+      "credit_card": {"cc_number": "6771-8989-7862-6266"},
+      "subscription": {
+        "plan": "Essential",
+        "status": "Pending",
+        "payment_method": "Debit card",
+        "term": "Payment in advance"
+      }
+    },
+    {
+      "id": 6552,
+      "uid": "643720a5-6d63-4cf9-97f4-5f0658f89121",
+      "password": "wraovfd5ju",
+      "first_name": "Tressa",
+      "last_name": "Leannon",
+      "username": "tressa.leannon",
+      "email": "tressa.leannon@email.com",
+      "avatar": "https://robohash.org/placeatreiciendisadipisci.png?size=300x300\u0026set=set1",
+      "gender": "Male",
+      "phone_number": "+1-787 1-242-862-7231 x774",
+      "social_insurance_number": "211627716",
+      "date_of_birth": "1981-11-25",
+      "employment": {
+        "title": "Government Analyst",
+        "key_skill": "Work under pressure"
+      },
+      "address": {
+        "city": "Fatimahfort",
+        "street_name": "Schaden Light",
+        "street_address": "10243 Charles Island",
+        "zip_code": "64759-7350",
+        "state": "Vermont",
+        "country": "United States",
+        "coordinates": {"lat": -36.63313668809836, "lng": -91.25043808192653}
+      },
+      "credit_card": {"cc_number": "4875-2179-1626-0999"},
+      "subscription": {
+        "plan": "Platinum",
+        "status": "Pending",
+        "payment_method": "Cash",
+        "term": "Monthly"
+      }
+    },
+    {
+      "id": 180,
+      "uid": "91605c33-bd31-45c5-9630-b655a7c6b6f0",
+      "password": "EkGfXWAwqc",
+      "first_name": "Claretha",
+      "last_name": "Tillman",
+      "username": "claretha.tillman",
+      "email": "claretha.tillman@email.com",
+      "avatar": "https://robohash.org/occaecatiquibusdamvoluptas.png?size=300x300\u0026set=set1",
+      "gender": "Genderqueer",
+      "phone_number": "+53 (920) 268-9807 x897",
+      "social_insurance_number": "712854934",
+      "date_of_birth": "2003-09-24",
+      "employment": {
+        "title": "Real-Estate Assistant",
+        "key_skill": "Work under pressure"
+      },
+      "address": {
+        "city": "Sherellmouth",
+        "street_name": "Erik Fort",
+        "street_address": "862 Carita Branch",
+        "zip_code": "06431-0300",
+        "state": "North Carolina",
+        "country": "United States",
+        "coordinates": {"lat": -9.00110267643629, "lng": -136.5000359172426}
+      },
+      "credit_card": {"cc_number": "4617-7054-8209-4415"},
+      "subscription": {
+        "plan": "Essential",
+        "status": "Idle",
+        "payment_method": "Cash",
+        "term": "Monthly"
+      }
+    },
+    {
+      "id": 7742,
+      "uid": "03730f3f-64cf-411e-93dc-ceaa14cba31f",
+      "password": "gTZhzejO1Q",
+      "first_name": "Rico",
+      "last_name": "Gutkowski",
+      "username": "rico.gutkowski",
+      "email": "rico.gutkowski@email.com",
+      "avatar": "https://robohash.org/inquianam.png?size=300x300\u0026set=set1",
+      "gender": "Genderqueer",
+      "phone_number": "+381 (667) 958-5323 x11329",
+      "social_insurance_number": "950999128",
+      "date_of_birth": "2001-07-14",
+      "employment": {"title": "Forward Assistant", "key_skill": "Fast learner"},
+      "address": {
+        "city": "West Jaclyn",
+        "street_name": "Maggio Crossroad",
+        "street_address": "90623 Carol Village",
+        "zip_code": "43078",
+        "state": "Utah",
+        "country": "United States",
+        "coordinates": {"lat": 76.24252015799274, "lng": -59.00078410208796}
+      },
+      "credit_card": {"cc_number": "4494-3638-1037-0517"},
+      "subscription": {
+        "plan": "Bronze",
+        "status": "Idle",
+        "payment_method": "Apple Pay",
+        "term": "Annual"
+      }
+    },
+    {
+      "id": 4010,
+      "uid": "b34bfdf7-3041-4001-9e24-7683b96e93ee",
+      "password": "pNzwnqYOQS",
+      "first_name": "Sindy",
+      "last_name": "Bahringer",
+      "username": "sindy.bahringer",
+      "email": "sindy.bahringer@email.com",
+      "avatar": "https://robohash.org/remexsit.png?size=300x300\u0026set=set1",
+      "gender": "Agender",
+      "phone_number": "+385 1-290-649-2074 x909",
+      "social_insurance_number": "169422367",
+      "date_of_birth": "1979-02-16",
+      "employment": {
+        "title": "Administration Associate",
+        "key_skill": "Self-motivated"
+      },
+      "address": {
+        "city": "Robertsshire",
+        "street_name": "Luz Roads",
+        "street_address": "7438 Gerhold Pines",
+        "zip_code": "62144",
+        "state": "Virginia",
+        "country": "United States",
+        "coordinates": {"lat": 5.948003079060271, "lng": 14.347997907598938}
+      },
+      "credit_card": {"cc_number": "4563645303465"},
+      "subscription": {
+        "plan": "Silver",
+        "status": "Pending",
+        "payment_method": "Cash",
+        "term": "Full subscription"
+      }
+    },
+    {
+      "id": 6195,
+      "uid": "8fa94b0b-5737-41e0-8e84-437a77d03f66",
+      "password": "HArZ0QgKOB",
+      "first_name": "Albertina",
+      "last_name": "Davis",
+      "username": "albertina.davis",
+      "email": "albertina.davis@email.com",
+      "avatar": "https://robohash.org/culpaquioccaecati.png?size=300x300\u0026set=set1",
+      "gender": "Male",
+      "phone_number": "+1-264 134.391.9238 x09485",
+      "social_insurance_number": "158282228",
+      "date_of_birth": "1978-05-17",
+      "employment": {
+        "title": "Direct Advertising Orchestrator",
+        "key_skill": "Leadership"
+      },
+      "address": {
+        "city": "Torphyton",
+        "street_name": "Kautzer Lock",
+        "street_address": "54388 Wiza Shoal",
+        "zip_code": "59231-7355",
+        "state": "California",
+        "country": "United States",
+        "coordinates": {"lat": -57.98728273156952, "lng": -60.847341676466854}
+      },
+      "credit_card": {"cc_number": "5596-2450-4998-9536"},
+      "subscription": {
+        "plan": "Diamond",
+        "status": "Blocked",
+        "payment_method": "Apple Pay",
+        "term": "Payment in advance"
+      }
+    },
+    {
+      "id": 1896,
+      "uid": "ce3ff9e9-63f2-4476-9f7f-c840558c29c0",
+      "password": "WumxJS50eo",
+      "first_name": "Jerilyn",
+      "last_name": "Kuvalis",
+      "username": "jerilyn.kuvalis",
+      "email": "jerilyn.kuvalis@email.com",
+      "avatar": "https://robohash.org/uttotamquasi.png?size=300x300\u0026set=set1",
+      "gender": "Bigender",
+      "phone_number": "+258 (882) 648-9747",
+      "social_insurance_number": "726873417",
+      "date_of_birth": "1991-03-24",
+      "employment": {
+        "title": "Dynamic Hospitality Orchestrator",
+        "key_skill": "Communication"
+      },
+      "address": {
+        "city": "Port Dustin",
+        "street_name": "Merrill Neck",
+        "street_address": "104 Friesen Underpass",
+        "zip_code": "28381-1088",
+        "state": "Washington",
+        "country": "United States",
+        "coordinates": {"lat": 73.6564234837603, "lng": 40.193367141572054}
+      },
+      "credit_card": {"cc_number": "6771-8989-6101-1997"},
+      "subscription": {
+        "plan": "Free Trial",
+        "status": "Pending",
+        "payment_method": "Alipay",
+        "term": "Annual"
+      }
+    },
+    {
+      "id": 1365,
+      "uid": "1353a837-6d8f-47ef-bd9a-f3045cc05ddc",
+      "password": "aHvgGiV6zS",
+      "first_name": "Rafael",
+      "last_name": "Lehner",
+      "username": "rafael.lehner",
+      "email": "rafael.lehner@email.com",
+      "avatar": "https://robohash.org/dolorummolestiassit.png?size=300x300\u0026set=set1",
+      "gender": "Male",
+      "phone_number": "+355 1-377-724-4734 x9782",
+      "social_insurance_number": "971513023",
+      "date_of_birth": "1975-04-01",
+      "employment": {
+        "title": "Banking Designer",
+        "key_skill": "Technical savvy"
+      },
+      "address": {
+        "city": "Kesslertown",
+        "street_name": "Sina Square",
+        "street_address": "311 Thuy Stream",
+        "zip_code": "23437",
+        "state": "New Mexico",
+        "country": "United States",
+        "coordinates": {"lat": -54.3521355834072, "lng": -73.71528998606107}
+      },
+      "credit_card": {"cc_number": "4115326305903"},
+      "subscription": {
+        "plan": "Business",
+        "status": "Idle",
+        "payment_method": "Google Pay",
+        "term": "Payment in advance"
+      }
+    },
+    {
+      "id": 8078,
+      "uid": "4dae81b7-c430-490c-9c89-fa4db0c96aa6",
+      "password": "rNAKfEH4hY",
+      "first_name": "Eldridge",
+      "last_name": "Pouros",
+      "username": "eldridge.pouros",
+      "email": "eldridge.pouros@email.com",
+      "avatar": "https://robohash.org/laborumestquis.png?size=300x300\u0026set=set1",
+      "gender": "Genderqueer",
+      "phone_number": "+509 (393) 717-6807 x342",
+      "social_insurance_number": "968901462",
+      "date_of_birth": "1969-12-09",
+      "employment": {
+        "title": "Forward Strategist",
+        "key_skill": "Self-motivated"
+      },
+      "address": {
+        "city": "West Jackqueline",
+        "street_name": "Bartell Villages",
+        "street_address": "298 Teddy Valleys",
+        "zip_code": "38839",
+        "state": "Louisiana",
+        "country": "United States",
+        "coordinates": {"lat": -34.96201000227012, "lng": -175.80776130468246}
+      },
+      "credit_card": {"cc_number": "4692144921228"},
+      "subscription": {
+        "plan": "Basic",
+        "status": "Pending",
+        "payment_method": "Cheque",
+        "term": "Payment in advance"
+      }
+    },
+    {
+      "id": 4040,
+      "uid": "9be7c1af-fb23-490a-952f-50352550a337",
+      "password": "C8MteSyTdY",
+      "first_name": "Adrianna",
+      "last_name": "Torp",
+      "username": "adrianna.torp",
+      "email": "adrianna.torp@email.com",
+      "avatar": "https://robohash.org/rerumenimperspiciatis.png?size=300x300\u0026set=set1",
+      "gender": "Non-binary",
+      "phone_number": "+352 601-040-1245 x572",
+      "social_insurance_number": "546842055",
+      "date_of_birth": "1962-10-23",
+      "employment": {
+        "title": "Accounting Engineer",
+        "key_skill": "Self-motivated"
+      },
+      "address": {
+        "city": "New Deangelomouth",
+        "street_name": "Robel Mountains",
+        "street_address": "9129 Mayer Mountains",
+        "zip_code": "97793-0702",
+        "state": "Nevada",
+        "country": "United States",
+        "coordinates": {"lat": -12.511652987339701, "lng": 94.12586811857562}
+      },
+      "credit_card": {"cc_number": "4623-9478-6492-8255"},
+      "subscription": {
+        "plan": "Business",
+        "status": "Active",
+        "payment_method": "Apple Pay",
+        "term": "Annual"
+      }
+    }
+  ]
+}
